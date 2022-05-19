@@ -6,7 +6,7 @@ You can visit website from [here](https://reviewcompanymembers.netlify.app/)
 ___
 **Clone the project**
 ```
- https://github.com/ahmetfeyyazbalci/review-company-members-React
+ https://github.com/feyyazbalci/review-company-members-React
 
 ```
 
